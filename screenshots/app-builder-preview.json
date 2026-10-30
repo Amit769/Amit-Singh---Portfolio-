@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Amit Singh — Software developer",
+      "hasCanvas": false,
+      "bodyTextLen": 3606,
+      "bodyTextHash": "aaaf40293f088e84d222dc886aabc38060e560e2de37f29baf8baa9afc4f3aee",
+      "bodyTextPrefix": "Skip to work Amit Singh Work Experience Skills Contact Greater N",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Amit Singh — Software developer",
+      "hasCanvas": false,
+      "bodyTextLen": 3606,
+      "bodyTextHash": "aaaf40293f088e84d222dc886aabc38060e560e2de37f29baf8baa9afc4f3aee",
+      "bodyTextPrefix": "Skip to work Amit Singh Work Experience Skills Contact Greater N",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

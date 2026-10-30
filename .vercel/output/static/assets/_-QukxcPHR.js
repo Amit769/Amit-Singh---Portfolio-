@@ -1,0 +1,1 @@
+import{f as e,p as t}from"./index-DG5QBXoh.js";var n=t();function r(){return(0,n.jsxs)(`main`,{className:`mx-auto max-w-6xl px-5 py-24 md:px-10`,children:[(0,n.jsx)(`h1`,{className:`lead`,children:`This page is not in the index.`}),(0,n.jsx)(e,{to:`/`,className:`mt-6 inline-flex min-h-11 items-center underline underline-offset-4`,children:`Home`})]})}export{r as component};
